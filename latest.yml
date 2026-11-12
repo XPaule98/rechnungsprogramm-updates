@@ -1,8 +1,8 @@
-version: 2.1.0
+version: 2.2.0
 files:
-  - url: Rechnungsprogramm-Setup-2.1.0.exe
-    sha512: 7Xm3Yxx/wKylZ71ntrWdQ8TvefpW29qkglI108GQY56TttMb9BuQ/Rd7Kzvbr2SPPoYMPUDo6zDKEsv0EqLymg==
-    size: 90933703
-path: Rechnungsprogramm-Setup-2.1.0.exe
-sha512: 7Xm3Yxx/wKylZ71ntrWdQ8TvefpW29qkglI108GQY56TttMb9BuQ/Rd7Kzvbr2SPPoYMPUDo6zDKEsv0EqLymg==
-releaseDate: '2026-11-12T15:55:04.579Z'
+  - url: Rechnungsprogramm-Setup-2.2.0.exe
+    sha512: 8Tynyl4V4QB6EE3gfNfCqEWgtE91oaVGoc43Hhzuywm7CvDo2ugmKIDloAEDmhKzFzLnbd2zLs7i+V8jVEB6zA==
+    size: 90935177
+path: Rechnungsprogramm-Setup-2.2.0.exe
+sha512: 8Tynyl4V4QB6EE3gfNfCqEWgtE91oaVGoc43Hhzuywm7CvDo2ugmKIDloAEDmhKzFzLnbd2zLs7i+V8jVEB6zA==
+releaseDate: '2026-11-12T15:57:29.115Z'
