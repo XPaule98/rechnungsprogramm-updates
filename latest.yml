@@ -1,8 +1,8 @@
-version: 1.7.0
+version: 1.8.0
 files:
-  - url: Rechnungsprogramm-Setup-1.7.0.exe
-    sha512: m2ppCSF6DjIpJxyqa3UCB5Ttdi/D9/lgfJZuDLJli8s5W8LHpjBdZYNY5AQfMdJj7UaehSXkWnPXfhPuD8+osg==
-    size: 89813287
-path: Rechnungsprogramm-Setup-1.7.0.exe
-sha512: m2ppCSF6DjIpJxyqa3UCB5Ttdi/D9/lgfJZuDLJli8s5W8LHpjBdZYNY5AQfMdJj7UaehSXkWnPXfhPuD8+osg==
-releaseDate: '2026-11-12T13:53:35.788Z'
+  - url: Rechnungsprogramm-Setup-1.8.0.exe
+    sha512: /xTrlCKRNzYZMbbmxNVRBNDWFaDQJjSNhk1m/v8OdXTj1ww3RJdftc4sLTBTg90f59Y5iQYPicqh72AnzTTP3w==
+    size: 96900345
+path: Rechnungsprogramm-Setup-1.8.0.exe
+sha512: /xTrlCKRNzYZMbbmxNVRBNDWFaDQJjSNhk1m/v8OdXTj1ww3RJdftc4sLTBTg90f59Y5iQYPicqh72AnzTTP3w==
+releaseDate: '2026-11-12T14:27:01.049Z'
