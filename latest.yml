@@ -1,8 +1,8 @@
-version: 1.4.0
+version: 1.5.0
 files:
-  - url: Rechnungsprogramm-Setup-1.4.0.exe
-    sha512: EPJd+TeSnMUW42AwZC+oEwNdZiW8PVzGmuSwYc9YoY6VLN3Gk3niCiosM4W2Wssf59BYi9T6oksgfLHNc18zuw==
-    size: 89808477
-path: Rechnungsprogramm-Setup-1.4.0.exe
-sha512: EPJd+TeSnMUW42AwZC+oEwNdZiW8PVzGmuSwYc9YoY6VLN3Gk3niCiosM4W2Wssf59BYi9T6oksgfLHNc18zuw==
-releaseDate: '2026-11-12T13:41:05.396Z'
+  - url: Rechnungsprogramm-Setup-1.5.0.exe
+    sha512: LZyK7g+CZDToHew+T2g0qMrRrrgE6qQAIBdw6tj0lVWQClJtBX9GRVc3cx5UiHclJjqPlxFZq5y0sG472okNrA==
+    size: 89809568
+path: Rechnungsprogramm-Setup-1.5.0.exe
+sha512: LZyK7g+CZDToHew+T2g0qMrRrrgE6qQAIBdw6tj0lVWQClJtBX9GRVc3cx5UiHclJjqPlxFZq5y0sG472okNrA==
+releaseDate: '2026-11-12T13:46:33.323Z'
