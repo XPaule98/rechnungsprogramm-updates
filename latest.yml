@@ -1,0 +1,8 @@
+version: 1.1.0
+files:
+  - url: Rechnungsprogramm-Setup-1.1.0.exe
+    sha512: 5geSY3qXmWvuMLxZNO8QiDquwmWLgtw6FOeWyljOevG8sdE4miGdHmWqaquo7aap9YP8CSHugWAvHjtzBCTt1g==
+    size: 89805620
+path: Rechnungsprogramm-Setup-1.1.0.exe
+sha512: 5geSY3qXmWvuMLxZNO8QiDquwmWLgtw6FOeWyljOevG8sdE4miGdHmWqaquo7aap9YP8CSHugWAvHjtzBCTt1g==
+releaseDate: '2026-11-12T13:05:15.112Z'
